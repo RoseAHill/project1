@@ -14,9 +14,11 @@ Output:
 
 Algorithm:
 1. display options
-2. get the user's selection on options
+2. get the user's input on options
 3. save the user's choices so far in a text file
 4. check for if the user has reached end of game
 5. determine next options based on user's selection
 6. display results and the next options.
 Go to step 2 and repeat rest of steps until the user reaches end of game.
+
+Task 1: Write Pseudocode
